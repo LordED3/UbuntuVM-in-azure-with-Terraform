@@ -1,0 +1,12 @@
+Terrafrom and Azure CLI Commands
+
+Terraform Commands
+terraform init
+terraform plan
+terraform destroy -auto-approve
+terraform apply -auto-approve
+
+Aure CLI Commands
+az login
+az logout
+az account show
